@@ -24,5 +24,5 @@ https://github.com/zzjcom/springboot-demo
     格式：
     [user]
         name = 用户名
-    	email = 邮箱
+        email = 邮箱
     也可以通过git config --global user.name+用户名 git config --global user.email+邮箱 直接修改
