@@ -1,12 +1,12 @@
-#这是一个专用于学习的spring boot小项目
+##这是一个专用于学习的spring boot小项目
 
-#参考文档
+##参考文档
 https://spring.io/guides/
 
-#项目远程Git仓库
+##项目远程Git仓库
 https://github.com/zzjcom/springboot-demo
 
-#Git命令
+##Git命令
     将当前目录作为一个Git仓库
     git init
     显示Git当前状态
@@ -17,7 +17,7 @@ https://github.com/zzjcom/springboot-demo
     git commit -m "提交说明"
     指定Git远程仓库地址
     git remote add origin 远程仓库地址
-    
+    将文件上传至origin用户的master分支上
     git push -u origin master
     
     可以通过notepad .git/config命令(Linux下用Vi或Vim编辑器打开)打开隐藏配置文件，更改用户名和邮箱
