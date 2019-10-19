@@ -1,12 +1,15 @@
-##这是一个专用于学习的spring boot小项目
+#这是一个专用于学习的spring boot小项目
 
 ##参考文档
+
 https://spring.io/guides/
 
 ##项目远程Git仓库
+
 https://github.com/zzjcom/springboot-demo
 
 ##Git命令
+
     将当前目录作为一个Git仓库
     git init
     显示Git当前状态
